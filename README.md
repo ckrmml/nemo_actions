@@ -6,7 +6,9 @@ nemo actions i use on arch
 Is a Nemo action to run a program with Bumblebee. When Bumblebee (optirun) is installed, by right-clicking an executable file it shows in the Nemo context menu the "Run with nVidia GPU" option.
 
 ## nemo-open-with-atom/gitkraken
-Are Nemo actions to open a directory with Atom or Gitkraken. When installed, by right-clicking a directory, it shows in the Nemo context menu the "Open with Atom/Gitkraken" option.
+Are Nemo actions to open a file/directory with Atom or Gitkraken. When installed, by right-clicking a file/directory, it shows in the Nemo context menu the "Open with Atom/Gitkraken" option.
+
+![context-menu](/actions.png)
 
 ### Installation
 #### Arch Linux
