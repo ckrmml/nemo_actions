@@ -1,0 +1,14 @@
+[Nemo Action]
+Name[en_GB]=Open with Gitkraken
+Name[de_DE]=Mit Gitkraken öffnen
+
+Comment[en_GB]=open %f with Gitkraken
+Comment[de_DE]=%f in Gitkraken öffnen
+
+Exec=gitkraken -p '%F'
+
+Icon-Name=gitkraken
+
+Selection=Any
+
+Extensions=any

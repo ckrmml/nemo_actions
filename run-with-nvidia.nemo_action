@@ -1,0 +1,24 @@
+# version 0.0.4
+
+[Nemo Action]
+
+Name[en_GB]=Run with nVidia GPU
+Name[it]=Esegui con la GPU nVidia
+Name[de_DE]=Mit nVidia GPU ausführen
+
+Comment[en_GB]=Run %f with dedicated nVidia graphic card
+Comment[it]=Esegui %f con la scheda grafica dedicata nVidia
+Comment[de_DE]=%f mit dedizierter nVidia Grafikkarte ausführen
+
+Exec=optirun %F
+
+Icon-Name=nvidia-settings
+
+Selection=s
+
+Mimetypes=application/x-executable;application/x-shellscript;text/x-script.phyton;application/x-bytecode.python;
+
+Dependencies=optirun;
+
+EscapeSpaces=true
+

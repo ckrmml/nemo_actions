@@ -1,0 +1,14 @@
+[Nemo Action]
+Name[en_GB]=Open with Atom
+Name[de_DE]=Mit Atom öffnen
+
+Comment[en_GB]=open %f with Atom
+Comment[de_DE]=%f in Atom öffnen
+
+Exec=atom '%F'
+
+Icon-Name=atom
+
+Selection=Any
+
+Extensions=any
